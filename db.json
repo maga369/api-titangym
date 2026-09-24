@@ -1,0 +1,72 @@
+{
+  "storeitems": [
+    {
+      "id": 1,
+      "name": "Joint Support",
+      "category": "Recuperación",
+      "brand": "TitanGym Nutrition",
+      "price": 21.99,
+      "stock": 35,
+      "weight": "120 cápsulas",
+      "flavor": "Cápsulas",
+      "description": "Complemento orientado al cuidado articular de deportistas.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.qzS61D5Bu46FacoKIBuheAHaGQ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "featured": false,
+      "rating": 4.7,
+      "reviews": 66,
+      "sku": "REC-003",
+      "isAvailable": true
+    },
+    {
+      "id": 2,
+      "name": "Electrolyte Hydration",
+      "category": "Recuperación",
+      "brand": "TitanGym Nutrition",
+      "price": 18.99,
+      "stock": 45,
+      "weight": "400g",
+      "flavor": "Limón",
+      "description": "Bebida en polvo con electrolitos para la hidratación deportiva.",
+      "image": "https://th.bing.com/th/id/OIP.D2xW1vYLGz2v-84_1igKCAHaFP?w=280&h=198&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
+      "featured": false,
+      "rating": 4.6,
+      "reviews": 74,
+      "sku": "REC-002",
+      "isAvailable": true
+    },
+    {
+      "id": 3,
+      "name": "Recovery Formula",
+      "category": "Recuperación",
+      "brand": "TitanGym Nutrition",
+      "price": 26.99,
+      "stock": 30,
+      "weight": "500g",
+      "flavor": "Naranja",
+      "description": "Fórmula de recuperación para después del entrenamiento.",
+      "image": "https://th.bing.com/th/id/OIP.tHSM1e-7kKLqqr-DwwRjQQHaHa?w=200&h=200&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
+      "featured": true,
+      "rating": 4.8,
+      "reviews": 93,
+      "sku": "REC-001",
+      "isAvailable": true
+    },
+    {
+      "id": 999,
+      "name": "BCAA Pro 2:1:1",
+      "category": "Aminoácidos",
+      "brand": "TitanGym Nutrition",
+      "price": 22.99,
+      "stock": 50,
+      "weight": "300g",
+      "flavor": "Frutos rojos",
+      "description": "Aminoácidos ramificados para mejorar la recuperación muscular.",
+      "image": "https://th.bing.com/th/id/OIP.4b0fVtYVYt7t8k8eX9YgWQHaHa?w=200&h=200&c=7&r=0&o=7&dpr=1.5&pid=1.7",
+      "featured": false,
+      "rating": 4.7,
+      "reviews": 112,
+      "sku": "AMI-001",
+      "isAvailable": true
+    }
+  ]
+}
