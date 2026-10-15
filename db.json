@@ -727,7 +727,7 @@
 
   {
     "name": "Protein Shaker Bottle",
-    "category": "Accessories",
+    "category": "Accesorios",
     "brand": "TitanGym Gear",
     "price": 9.99,
     "stock": 100,
@@ -743,7 +743,7 @@
   },
   {
     "name": "Weightlifting Belt",
-    "category": "Accessories",
+    "category": "Accesorios",
     "brand": "TitanGym Gear",
     "price": 34.99,
     "stock": 45,
@@ -759,7 +759,7 @@
   },
   {
     "name": "Training Gloves",
-    "category": "Accessories",
+    "category": "Accesorios",
     "brand": "TitanGym Gear",
     "price": 14.99,
     "stock": 80,
@@ -775,7 +775,7 @@
   },
   {
     "name": "Wrist Wraps",
-    "category": "Accessories",
+    "category": "Accesorios",
     "brand": "TitanGym Gear",
     "price": 12.99,
     "stock": 70,
@@ -791,7 +791,7 @@
   },
   {
     "name": "Resistance Bands Set",
-    "category": "Accessories",
+    "category": "Accesorios",
     "brand": "TitanGym Gear",
     "price": 19.99,
     "stock": 60,
@@ -807,7 +807,7 @@
   },
   {
     "name": "Speed Jump Rope",
-    "category": "Accessories",
+    "category": "Accesorios",
     "brand": "TitanGym Gear",
     "price": 11.99,
     "stock": 90,
@@ -823,7 +823,7 @@
   },
   {
     "name": "Sports Water Bottle 1L",
-    "category": "Accessories",
+    "category": "Accesorios",
     "brand": "TitanGym Gear",
     "price": 13.99,
     "stock": 120,
@@ -839,7 +839,7 @@
   },
   {
     "name": "Knee Sleeves",
-    "category": "Accessories",
+    "category": "Accesorios",
     "brand": "TitanGym Gear",
     "price": 24.99,
     "stock": 50,
@@ -855,7 +855,7 @@
   },
   {
     "name": "Microfiber Gym Towel",
-    "category": "Accessories",
+    "category": "Accesorios",
     "brand": "TitanGym Gear",
     "price": 8.99,
     "stock": 70,
@@ -873,7 +873,7 @@
 
   {
     "name": "Gym Backpack",
-    "category": "Accessories",
+    "category": "Accesorios",
     "brand": "TitanGym Gear",
     "price": 39.99,
     "stock": 40,
